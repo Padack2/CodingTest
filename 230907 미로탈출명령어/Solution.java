@@ -3,9 +3,6 @@ import java.util.*;
 class Solution {
     List<String> answers;
     String answer = "";
-    
-    int[] dx = {1, 0, 0, -1};
-    int[] dy = {0, 1, -1, 0};
         
     public String solution(int n, int m, int x, int y, int r, int c, int k) {
         answer = "";
