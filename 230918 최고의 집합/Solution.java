@@ -8,9 +8,8 @@ class Solution {
             return new int[] {-1};
         }
     
-        answer = new int[n];
         int num = s / n;
-        
+        answer = new int[n];
         Arrays.fill(answer, num);
         
         num = s % n;
