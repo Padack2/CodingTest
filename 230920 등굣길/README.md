@@ -5,7 +5,7 @@
 
 아래 그림은 m = 4, n = 3 인 경우입니다.
 
-image0.png
+![image](https://github.com/Padack2/CodingTest/assets/26791213/1604501f-5f34-4963-bc5e-f60cc6f64996)
 
 가장 왼쪽 위, 즉 집이 있는 곳의 좌표는 (1, 1)로 나타내고 가장 오른쪽 아래, 즉 학교가 있는 곳의 좌표는 (m, n)으로 나타냅니다.
 
@@ -25,7 +25,9 @@ m과 n이 모두 1인 경우는 입력으로 주어지지 않습니다.
 |4|3|[[2, 2]]|4|
 
 ### 입출력 예 설명
-image1.png
+
+![image](https://github.com/Padack2/CodingTest/assets/26791213/a75a5b00-c284-4115-b8b2-9905c63bb4fe)
+
 
 ## 피드백
 
