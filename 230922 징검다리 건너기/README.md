@@ -31,18 +31,26 @@ k는 1 이상 stones의 길이 이하인 자연수입니다.
 입출력 예 #1
 
 첫 번째 친구는 다음과 같이 징검다리를 건널 수 있습니다.
-step_stones_104.png
+
+![image](https://github.com/Padack2/CodingTest/assets/26791213/60de8fae-6212-4057-b079-4963c5193240)
+
 
 첫 번째 친구가 징검다리를 건넌 후 디딤돌에 적힌 숫자는 아래 그림과 같습니다.
 두 번째 친구도 아래 그림과 같이 징검다리를 건널 수 있습니다.
-step_stones_101.png
+
+![image](https://github.com/Padack2/CodingTest/assets/26791213/7f9b667e-31d7-4fc5-9978-ed4d76e30c16)
+
 
 두 번째 친구가 징검다리를 건넌 후 디딤돌에 적힌 숫자는 아래 그림과 같습니다.
 세 번째 친구도 아래 그림과 같이 징검다리를 건널 수 있습니다.
-step_stones_102.png
+
+![image](https://github.com/Padack2/CodingTest/assets/26791213/e4788860-4d85-47c7-b191-03e316d99e1c)
+
 
 세 번째 친구가 징검다리를 건넌 후 디딤돌에 적힌 숫자는 아래 그림과 같습니다.
 네 번째 친구가 징검다리를 건너려면, 세 번째 디딤돌에서 일곱 번째 디딤돌로 네 칸을 건너뛰어야 합니다. 하지만 k = 3 이므로 건너뛸 수 없습니다.
-step_stones_103.png
+
+![image](https://github.com/Padack2/CodingTest/assets/26791213/91b68ef1-c146-4fae-96e9-a9a164ab2cb0)
+
 
 따라서 최대 3명이 디딤돌을 모두 건널 수 있습니다.
