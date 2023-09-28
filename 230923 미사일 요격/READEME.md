@@ -22,3 +22,6 @@ targets의 각 행은 [s,e] 형태입니다.
 ![image](https://github.com/Padack2/CodingTest/assets/26791213/358ef4a8-c995-4ed0-a036-27417cb1fb8b)
 
 위 그림과 같이 최소 세 번의 요격 미사일 발사로 전부 방어할 수 있습니다.
+
+## 피드백
+테스트 케이스도 잘 봐야할 것 같다. 처음에 target의 길이 끝자락이 포함되지 않는 걸 모르고 코드를 짰었다.
