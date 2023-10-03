@@ -1,2 +1,2 @@
 # CodingTest
-코딩테스트 TID
+코딩테스트 TIL
