@@ -26,7 +26,12 @@ right - left < 105
 입출력 예 #1
 
 다음 애니메이션은 주어진 과정대로 1차원 배열을 만드는 과정을 나타낸 것입니다.
+![FlattenedFills_ex1](https://github.com/Padack2/CodingTest/assets/26791213/efb85687-a968-42a1-ab61-50f8d8c46edd)
+
 
 입출력 예 #2
 
 다음 애니메이션은 주어진 과정대로 1차원 배열을 만드는 과정을 나타낸 것입니다.
+![FlattenedFills_ex2](https://github.com/Padack2/CodingTest/assets/26791213/8c52cfc7-f4d8-4ea3-91db-b94f30539a91)
+
+
