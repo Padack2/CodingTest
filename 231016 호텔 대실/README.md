@@ -23,7 +23,8 @@ book_time[i]는 ["HH:MM", "HH:MM"]의 형태로 이루어진 배열입니다
 입출력 예 설명
 입출력 예 #1
 
-example1
+![image](https://github.com/Padack2/CodingTest/assets/26791213/c6deddda-d1bf-4cc3-9d20-d63c5084d95e)
+
 위 사진과 같습니다.
 
 입출력 예 #2
